@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#4F46E5"/>
+  
+  <!-- Briefcase body -->
+  <rect x="22" y="42" width="56" height="38" rx="6" ry="6" fill="white"/>
+  
+  <!-- Briefcase top handle -->
+  <path d="M38 42 L38 34 Q38 28 44 28 L56 28 Q62 28 62 34 L62 42" 
+        fill="none" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  
+  <!-- Center divider line -->
+  <rect x="22" y="56" width="56" height="5" fill="#4F46E5" opacity="0.3"/>
+  
+  <!-- Small lock dot -->
+  <circle cx="50" cy="58" r="5" fill="#4F46E5"/>
+</svg>
